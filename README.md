@@ -1,0 +1,1 @@
+# vite-openapi-client-axios
